@@ -1,0 +1,8 @@
+.form-element-wrapper{
+    margin-bottom: 5px;
+}
+.form-element-wrapper label{
+    font-weight: bold;
+    min-width: 150px;
+    display: inline-block;
+}

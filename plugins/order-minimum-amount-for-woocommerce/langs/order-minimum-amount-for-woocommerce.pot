@@ -1,0 +1,444 @@
+#: includes/class-alg-wc-order-minimum-amount-core.php:204
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:163
+msgid ""
+"You must have an order with a minimum of %min_order_sum% to place your "
+"order, your current order total is %cart_total_sum%."
+msgstr ""
+
+#: includes/class-alg-wc-order-minimum-amount-core.php:205
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:197
+msgid ""
+"You must have an order with a maximum of %max_order_sum% to place your "
+"order, your current order total is %cart_total_sum%."
+msgstr ""
+
+#: includes/class-alg-wc-order-minimum-amount-core.php:208
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:180
+msgid ""
+"You must have an order with a minimum of %min_order_qty% pcs. to place your "
+"order, your current order quantity is %cart_total_qty%."
+msgstr ""
+
+#: includes/class-alg-wc-order-minimum-amount-core.php:209
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:214
+msgid ""
+"You must have an order with a maximum of %max_order_qty% pcs. to place your "
+"order, your current order quantity is %cart_total_qty%."
+msgstr ""
+
+#: includes/class-alg-wc-order-minimum-amount-core.php:330
+msgid "Guest"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:24
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:135
+msgid "General"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:37
+msgid "Order Min/Max Amount Options"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:42
+#: includes/settings/class-alg-wc-settings-order-minimum-amount.php:24
+msgid "Order Min/Max Amount"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:43
+msgid "Enable plugin"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:53
+msgid "Order Sum"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:58
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:157
+msgid "Min sum"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:59
+msgid "Minimum order sum."
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:60
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:72
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:109
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:121
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-user-roles.php:59
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-users.php:65
+msgid "Ignored if set to zero."
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:70
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:191
+msgid "Max sum"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:71
+msgid "Maximum order sum."
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:82
+msgid "Exclude shipping"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:83
+msgid "Excludes shipping from cart total."
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:84
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:92
+msgid "Exclude"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:90
+msgid "Exclude discounts"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:91
+msgid "Excludes discounts from cart total."
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:102
+msgid "Order Quantity"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:107
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:174
+msgid "Min quantity"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:108
+msgid "Minimum order quantity."
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:119
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:208
+msgid "Max quantity"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:120
+msgid "Maximum order quantity."
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:140
+msgid "Block checkout page"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:141
+msgid "Stops customer from reaching the checkout page on wrong min/max amount."
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:142
+msgid "Customer is redirected back to the cart page."
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-general.php:143
+msgid "Enable"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:24
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:144
+msgid "Messages"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:41
+msgid "Message Options"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:46
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:53
+msgid "Notices"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:46
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:60
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:93
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:158
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:175
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:192
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:209
+msgid "Cart"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:47
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:54
+msgid "Add"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:53
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:72
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:118
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:158
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:175
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:192
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:209
+msgid "Checkout"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:60
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:72
+msgid "Notice type"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:61
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:73
+msgid "Styling."
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:67
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:79
+msgid "Error"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:68
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:80
+msgid "Notice"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:88
+msgid "Additional Positions"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:99
+msgid "Before cart table"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:100
+msgid "Before cart contents"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:101
+msgid "Cart contents"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:102
+msgid "Cart coupon"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:103
+msgid "Cart actions"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:104
+msgid "After cart contents"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:105
+msgid "After cart table"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:106
+msgid "Before cart totals"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:107
+msgid "Cart totals: Before shipping"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:108
+msgid "Cart totals: After shipping"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:109
+msgid "Cart totals: Before order total"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:110
+msgid "Cart totals: After order total"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:111
+msgid "Proceed to checkout"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:112
+msgid "After cart totals"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:113
+msgid "Before shipping calculator"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:114
+msgid "After shipping calculator"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:124
+msgid "Before checkout form"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:125
+msgid "Before customer details"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:126
+msgid "Billing"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:127
+msgid "Shipping"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:128
+msgid "After customer details"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:129
+msgid "Before order review"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:130
+msgid "Order review"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:131
+msgid "Order review: Before shipping"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:132
+msgid "Order review: After shipping"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:133
+msgid "Order review: Payment: Before submit button"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:134
+msgid "Order review: Payment: After submit button"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:135
+msgid "After order review"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:136
+msgid "After checkout form"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:148
+#, php-format
+msgid ""
+"You can use shortcodes in messages, e.g. for WPML/Polylang translations: %s"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:159
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:176
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:193
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:210
+#, php-format
+msgid "Placeholders: %s."
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:161
+msgid "Message to the customer if order is below minimum sum."
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:178
+msgid "Message to the customer if order is below minimum quantity."
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:195
+msgid "Message to the customer if order is above maximum sum."
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-messages.php:212
+msgid "Message to the customer if order is above maximum quantity."
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-user-roles.php:24
+msgid "User Roles"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-user-roles.php:56
+msgid "Order Min/Max Amount by User Role"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-user-roles.php:58
+msgid "This is optional."
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-user-roles.php:66
+msgid "Order min/max amount by user role"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-user-roles.php:67
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-users.php:48
+msgid "Enable section"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-user-roles.php:85
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-users.php:74
+msgid "Min"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-user-roles.php:85
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-users.php:74
+msgid "Max"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-user-roles.php:86
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-users.php:75
+msgid "sum"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-user-roles.php:86
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-users.php:75
+msgid "quantity"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-users.php:24
+msgid "Users"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-users.php:39
+msgid "Order Min/Max Amount per User"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-users.php:47
+msgid "Order min/max amount per user"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-users.php:49
+msgid ""
+"When enabled, you can set amounts per user on each user's profile edit page "
+"(in \"Users > Edit user\")."
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-users.php:63
+msgid "Guest Fallback"
+msgstr ""
+
+#: includes/settings/class-alg-wc-order-minimum-amount-settings-users.php:64
+msgid "This is used for non-registered users (i.e. guests) as a fallback."
+msgstr ""
+
+#: includes/settings/class-alg-wc-settings-order-minimum-amount.php:56
+msgid "Reset Settings"
+msgstr ""
+
+#: includes/settings/class-alg-wc-settings-order-minimum-amount.php:61
+msgid "Reset section settings"
+msgstr ""
+
+#: includes/settings/class-alg-wc-settings-order-minimum-amount.php:62
+msgid "Reset"
+msgstr ""
+
+#: includes/settings/class-alg-wc-settings-order-minimum-amount.php:63
+msgid "Check the box and save changes to reset."
+msgstr ""
+
+#: includes/settings/class-alg-wc-settings-order-minimum-amount.php:91
+#: includes/settings/class-alg-wc-settings-order-minimum-amount.php:106
+msgid "Your settings have been reset."
+msgstr ""
+
+#: order-minimum-amount-for-woocommerce.php:150
+msgid "Settings"
+msgstr ""
+
+#: order-minimum-amount-for-woocommerce.php:153
+msgid "Go Pro"
+msgstr ""

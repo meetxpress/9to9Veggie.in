@@ -1,0 +1,817 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/project\n"
+"POT-Creation-Date: 2021-03-11T15:56:29+00:00\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: json2po\n"
+
+#. Plugin Name of the plugin
+msgid "NextGen"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.godaddy.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Next Generation WordPress Experience"
+msgstr "Trải nghiệm WordPress Thế hệ Tiếp theo"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr ""
+
+#: includes/class-edit-site.php:48
+msgid "Setting to disable or enable NextGen administration dashboard shortcut."
+msgstr ""
+"Cài đặt để tắt hoặc bật lối tắt đến bảng điều khiển quản trị của NextGen."
+
+#: includes/class-edit-site.php:94
+msgid "Headline"
+msgstr "Tiêu đề"
+
+#: includes/class-edit-site.php:95
+msgid "Text"
+msgstr "Văn bản"
+
+#: includes/class-edit-site.php:96
+msgid "List"
+msgstr "Danh sách"
+
+#: includes/class-edit-site.php:97
+msgid "Image"
+msgstr "Hình ảnh"
+
+#: includes/class-edit-site.php:98
+msgid "Gallery"
+msgstr "Album ảnh"
+
+#: includes/class-edit-site.php:99
+msgid "Contact"
+msgstr "Liên hệ"
+
+#: includes/class-edit-site.php:100
+msgid "Call To Action"
+msgstr "Kêu gọi Thao tác"
+
+#: includes/class-image-categories.php:84
+msgid "Generic"
+msgstr "Chung"
+
+#: includes/class-image-categories.php:108
+msgid "Image category."
+msgstr "Hạng mục ảnh."
+
+#: includes/class-publish-guide.php:131
+msgid "Display Publish Guide."
+msgstr "Hiển thị Hướng dẫn Xuất bản."
+
+#: includes/class-site-design.php:380
+msgid "A design_style must be passed."
+msgstr "Phải phê duyệt một design_style."
+
+#: includes/class-site-design.php:388
+msgid "An available design_style must be passed."
+msgstr "Phải phê duyệt một design_style khả dụng."
+
+#. translators: accessibility text for the footer landmark region.
+#: build/edit-site.js:15
+#: packages/edit-site/src/components/header/more-menu/index.js:27
+msgid "More tools & options"
+msgstr ""
+
+#: build/edit-site.js:15
+#: packages/edit-site/src/components/header/more-menu/index.js:33
+msgctxt "noun"
+msgid "View"
+msgstr ""
+
+#: build/edit-site.js:15
+#: packages/edit-site/src/components/header/more-menu/index.js:36
+msgid "Top toolbar"
+msgstr ""
+
+#: build/edit-site.js:15
+#: packages/edit-site/src/components/header/more-menu/index.js:37
+msgid "Access all block and document tools in a single place"
+msgstr ""
+
+#: build/edit-site.js:15
+#: packages/edit-site/src/components/header/more-menu/index.js:41
+msgid "Spotlight mode"
+msgstr ""
+
+#: build/edit-site.js:15
+#: packages/edit-site/src/components/header/more-menu/index.js:42
+msgid "Focus on one block at a time"
+msgstr ""
+
+#: build/edit-site.js:15
+#: packages/edit-site/src/components/header/more-menu/index.js:46
+msgid "Plugins"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:56
+msgid "Would you like to keep using the GoDaddy Site Editor?"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:59
+msgid ""
+"We want to make sure you have the right tools to build your site. You are "
+"currently using the GoDaddy Site editor, which gives you all of WordPress "
+"plus a way to customize your design, edit your pages, and manage your pages, "
+"all from one place. "
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:60
+msgid "Would you like to keep building your site with the GoDaddy Site Editor?"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:66
+msgid "Yes, keep using GoDaddy Site Editor"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:71
+msgid "No, I’d like to see other options"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:77
+#: packages/editor-preference-modal/src/index.js:114
+msgid "Continue"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:85
+msgid "We’re sorry this wasn’t the right fit for you"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:88
+msgid "Could you tell us why?"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:91
+msgid "Tell us why this wasn’t the right fit for you…"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:100
+#: packages/editor-preference-modal/src/index.js:147
+#: packages/editor-preference-modal/src/index.js:178
+#: packages/editor-preference-modal/src/index.js:207
+#: packages/editor-preference-modal/src/index.js:240
+msgid "Go Back"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:107
+msgid "Skip"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:126
+msgid "Let’s find you a better fit"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:127
+msgid "Here are some other options to explore:"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:131
+msgid "Switch to the default WordPress editor"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:136
+msgid "Switch to a 3rd party page builder"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:141
+msgid "Talk to someone about my options"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:151
+msgid "Learn More"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:161
+msgid "Switching to the default WordPress editor"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:164
+msgid "You should switch to the default WordPress editor if:"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:166
+msgid "You want to use a different theme"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:167
+msgid "You are familiar with and/or prefer to use default WordPress"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:171
+#: packages/editor-preference-modal/src/index.js:200
+msgid ""
+"Once you switch, this site will no longer work with the GoDaddy Site Editor, "
+"so you won’t be able to come back."
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:173
+msgid "Ready to switch this site to the default WordPress editor?"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:182
+msgid "Switch to Default"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:194
+msgid "Switching to a 3rd Party Page Builder"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:197
+msgid ""
+"A 3rd party page builder is a WordPress plugin that you install on your "
+"site, that allows you to build and design pages."
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:202
+msgid "Ready to switch this site to a 3rd party page builder?"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:211
+msgid "View Plugins"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:226
+msgid "Expert help is on the way"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:235
+msgid "Contact our GoDaddy guides to get started."
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:244
+msgid "Contact Us"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:259
+msgid "Redirecting you to the default WordPress Editor…"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:269
+msgid "Redirecting you to WordPress plugins…"
+msgstr ""
+
+#. translators: accessibility text for the footer landmark region.
+#: build/feedback-modal.js:15
+#: packages/feedback-modal/src/feedback-modal-comment.js:25
+msgid "Tell us about your experience… (optional)"
+msgstr "Hãy nói cho chúng tôi biết về trải nghiệm của bạn… (tùy chọn)"
+
+#: build/feedback-modal.js:15
+#: packages/feedback-modal/src/feedback-modal-comment.js:32
+msgid "Send"
+msgstr "Gửi"
+
+#: build/feedback-modal.js:15
+#: packages/feedback-modal/src/feedback-modal-success.js:15
+msgid "Thank you for sharing your feedback with us"
+msgstr "Cảm ơn bạn đã chia sẻ phản hồi với chúng tôi"
+
+#: build/feedback-modal.js:15
+#: packages/feedback-modal/src/feedback-modal-success.js:21
+msgid "Close"
+msgstr "Đóng"
+
+#. translators: %1$s is a placeholder for the site's url.
+#: build/feedback-modal.js:15 build/publish-guide.js:2
+#: packages/feedback-modal/src/index.js:92
+#: packages/feedback-modal/src/index.js:103
+#: packages/publish-guide/src/success-view.js:119
+msgid "Give feedback"
+msgstr "Cung cấp phản hồi"
+
+#: build/feedback-modal.js:15 packages/feedback-modal/src/index.js:104
+msgid "How would you rate your experience?"
+msgstr "Bạn đánh giá trải nghiệm của bạn là thế nào?"
+
+#: build/layout-selector.js:1
+#: packages/layout-selector/src/image-category-defaults.js:5
+msgid "Fashion"
+msgstr "Thời trang"
+
+#: build/layout-selector.js:1
+#: packages/layout-selector/src/image-category-defaults.js:9
+msgid "Home Decor"
+msgstr "Trang trí nhà cửa"
+
+#: build/layout-selector.js:1
+#: packages/layout-selector/src/image-category-defaults.js:13
+msgid "Coffee"
+msgstr "Cà phê"
+
+#: build/layout-selector.js:1
+#: packages/layout-selector/src/image-category-defaults.js:17
+msgid "Construction"
+msgstr "Xây dựng"
+
+#: build/layout-selector.js:1
+#: packages/layout-selector/src/image-category-defaults.js:21
+msgid "Art"
+msgstr "Nghệ thuật"
+
+#: build/layout-selector.js:1
+#: packages/layout-selector/src/image-category-defaults.js:25
+msgid "Baking"
+msgstr "Nướng bánh"
+
+#: build/layout-selector.js:1
+#: packages/layout-selector/src/image-category-defaults.js:29
+msgid "Fitness"
+msgstr "Thể dục"
+
+#: build/layout-selector.js:1
+#: packages/layout-selector/src/image-category-defaults.js:33
+msgid "Landscaping"
+msgstr "Tạo cảnh quan"
+
+#: build/layout-selector.js:1 packages/layout-selector/src/search.js:171
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: build/layout-selector.js:1
+#: packages/layout-selector/src/image-categories.js:23
+msgid "My site is about:"
+msgstr "Trang của tôi là về:"
+
+#. translators: accessibility text for the footer landmark region.
+#: build/logo-menu.js:15
+msgid "Cache cleared"
+msgstr "Đã xóa cache"
+
+#: build/logo-menu.js:15
+msgid "Site Editor"
+msgstr "Trình biên tập trang"
+
+#: build/logo-menu.js:15
+msgid "WordPress Management"
+msgstr "Quản lý WordPress"
+
+#: build/logo-menu.js:15
+msgid "Manage Plugins"
+msgstr "Quản lý trình cắm"
+
+#: build/logo-menu.js:15
+msgid "Manage Site Menus"
+msgstr "Quản lý Menu trang"
+
+#: build/logo-menu.js:15
+msgid "Customize Site Design"
+msgstr "Tuỳ chỉnh thiết kế trang"
+
+#: build/logo-menu.js:15
+msgid "Manage Users"
+msgstr "Quản lý người dùng"
+
+#: build/logo-menu.js:15
+msgid "Manage Comments"
+msgstr "Quản lý bình luận"
+
+#: build/logo-menu.js:15
+msgid "WordPress Admin"
+msgstr "Quản trị viên của WordPress"
+
+#: build/logo-menu.js:15
+msgid "Hosting"
+msgstr "Dịch vụ lưu trữ"
+
+#: build/logo-menu.js:15
+msgid "Hosting Overview"
+msgstr "Tổng quan dịch vụ lưu trữ"
+
+#: build/logo-menu.js:15
+msgid "Hosting Settings"
+msgstr "Cài đặt dịch vụ lưu trữ"
+
+#: build/logo-menu.js:15
+msgid "Tools"
+msgstr "Công cụ"
+
+#: build/logo-menu.js:15
+msgid "Editor Preference"
+msgstr ""
+
+#: build/logo-menu.js:15
+msgid "Flush Cache"
+msgstr "Xóa cache"
+
+#: build/logo-menu.js:15
+msgid "Connection Management"
+msgstr "Kết nối Quản lý"
+
+#: build/logo-menu.js:15
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: build/logo-menu.js:15
+msgid "Give Feedback"
+msgstr "Cung cấp phản hồi"
+
+#: build/logo-menu.js:15
+msgid "Help & Support"
+msgstr "Hỗ trợ & Trợ giúp"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-design.js:19
+msgid "Make the design your own"
+msgstr "Tạo thiết kế của riêng bạn"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-design.js:20
+msgid "Update the colors, fonts and change the look and feel of your site."
+msgstr "Cập nhật màu sắc, phông chữ, thay đổi vẻ ngoài và cảm nhận của trang"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-design.js:30
+msgid "Customize"
+msgstr "Tùy chỉnh"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-content.js:19
+msgid "Review and add pages"
+msgstr "Xem xét và thêm trang"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-content.js:20
+msgid "We got you started with a few. Add more pages and content."
+msgstr ""
+"Chúng tôi sẽ giúp bạn bắt đầu với vài trang. Thêm nhiều trang và nội dung "
+"hơn."
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-content.js:31
+msgid "Manage pages"
+msgstr "Quản lý trang"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-info.js:129
+msgid "website logo"
+msgstr "Logo Website"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-info.js:134
+msgid "Add your site info & brand"
+msgstr "Thêm thông tin & thương hiệu trang của bạn"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-info.js:135
+msgid ""
+"What’s the name of your site and what’s it’s purpose? Add a logo if you have "
+"one."
+msgstr ""
+"Tên website của bạn là gì và mục đích của website là gì? Hãy thêm một logo "
+"nếu bạn có."
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-info.js:145
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-info.js:151
+msgid "Site title"
+msgstr "Tiêu đề của trang"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-info.js:157
+msgid "Site description"
+msgstr "Mô tả của trang"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-info.js:167
+#: packages/publish-guide/src/publish-guide-items/site-info.js:181
+#: packages/publish-guide/src/publish-guide-items/site-info.js:185
+#: packages/publish-guide/src/publish-guide-items/site-info.js:198
+msgid "Upload site logo"
+msgstr "Tải lên logo của trang"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-info.js:203
+msgid "Replace Logo"
+msgstr ""
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-info.js:213
+msgid "Remove Logo"
+msgstr ""
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-info.js:235
+msgid "Save"
+msgstr "Lưu"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-info.js:242
+msgid "Do this later"
+msgstr "Thực hiện thao tác này sau"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/add-domain.js:26
+msgid "Add your domain"
+msgstr "Thêm miền của bạn"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/add-domain.js:27
+msgid ""
+"Look more professional and make it easier for customers to find your website."
+msgstr ""
+"Trông chuyên nghiệp và giúp khách hàng dễ tìm thấy website của bạn hơn."
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/add-domain.js:46
+msgid "Add domain"
+msgstr "Thêm miền"
+
+#: build/publish-guide.js:1 packages/publish-guide/src/success-view.js:43
+msgid "Your site is live on"
+msgstr "Trang của bạn sẽ ở chế độ trực tuyến trên"
+
+#: build/publish-guide.js:1 packages/publish-guide/src/success-view.js:56
+msgid "Time to celebrate and"
+msgstr "Đã đến lúc để chúc mừng và"
+
+#: build/publish-guide.js:1 packages/publish-guide/src/success-view.js:56
+msgid "share the great news."
+msgstr "chia sẻ tin tức tuyệt vời."
+
+#: build/publish-guide.js:1 packages/publish-guide/src/success-view.js:69
+#: packages/publish-guide/src/success-view.js:83
+#: packages/publish-guide/src/success-view.js:98
+msgid "Check out my new website!"
+msgstr "Hãy xem qua website mới của bạn!"
+
+#. translators: %1$s is a placeholder for the site's url.
+#: build/publish-guide.js:2 packages/publish-guide/src/success-view.js:101
+msgid ""
+"I just published my website at %1$s, come check it out and let me know what "
+"you think!"
+msgstr ""
+"Tôi vừa xuất bản website tại %1$s, hãy đến xem qua và cho tôi biết cảm nghĩ "
+"của bạn nhé!"
+
+#: build/publish-guide.js:2 packages/publish-guide/src/success-view.js:128
+msgid "Hide this guide"
+msgstr "Ẩn hướng dẫn này"
+
+#: build/publish-guide.js:2
+msgid "Design Customizer"
+msgstr "Công cụ tùy chỉnh thiết kế"
+
+#: build/publish-guide.js:2
+msgid "Click here to update your colors, fonts and feel of your site."
+msgstr ""
+"Vui lòng nhấp vào đây để cập nhật màu sắc, phông chữ và cảm nhận về trang "
+"của bạn."
+
+#: build/publish-guide.js:2
+msgid "Site Contents"
+msgstr "Nội dung trang"
+
+#: build/publish-guide.js:2
+msgid "Click here to add and manage the pages for your site."
+msgstr ""
+"Vui lòng nhấp vào đây để thêm và quản lý các trang cho website của bạn."
+
+#: build/publish-guide.js:2
+msgid "Getting Started Guide"
+msgstr "Hướng dẫn bắt đầu"
+
+#: build/publish-guide.js:2
+msgid ""
+"Once you're done selecting your site style and colors, click here to "
+"continue publishing your site."
+msgstr ""
+"Một khi bạn đã hoàn thành việc chọn kiểu và màu sắc web của bạn, hãy nhấp "
+"chuột vào đây để tiếp tục xuất bản trang của bạn."
+
+#: build/publish-guide.js:2
+msgid "Publish Guide"
+msgstr "Hướng dẫn xuất bản"
+
+#. translators: accessibility text for the footer landmark region.
+#: build/site-content.js:15 packages/site-content/src/post-menu-actions.js:38
+msgid "Select an action"
+msgstr "Chọn một thao tác"
+
+#: build/site-content.js:15 packages/site-content/src/post-menu-actions.js:50
+msgid "Rename"
+msgstr "Đặt lại tên"
+
+#: build/site-content.js:15 packages/site-content/src/post-menu-actions.js:61
+msgid "Really set as homepage?"
+msgstr "Bạn muốn thật sự đặt làm trang chủ?"
+
+#: build/site-content.js:15 packages/site-content/src/post-menu-actions.js:71
+msgid "Set as homepage"
+msgstr "Đặt làm trang chủ"
+
+#: build/site-content.js:15 packages/site-content/src/post-menu-actions.js:80
+msgid "Unpin post"
+msgstr "Bỏ ghim bài đăng"
+
+#: build/site-content.js:15 packages/site-content/src/post-menu-actions.js:80
+msgid "Pin post"
+msgstr "Ghim bài đăng"
+
+#: build/site-content.js:15 packages/site-content/src/post-menu-actions.js:89
+msgid "Duplicate"
+msgstr "Trùng lặp"
+
+#: build/site-content.js:15 packages/site-content/src/post-menu-actions.js:99
+msgid "Really delete?"
+msgstr "Thật sự xóa?"
+
+#: build/site-content.js:15 packages/site-content/src/post-menu-actions.js:109
+msgid "Delete"
+msgstr "Xóa"
+
+#. translators: %s is the page title.
+#: build/site-content.js:16
+msgid "\"%s\" set as the homepage."
+msgstr "\"%s\" đã được đặt làm trang chủ."
+
+#. translators: %s is the page title.
+#: build/site-content.js:16
+msgid "(no title)"
+msgstr "(không có tiêu đề)"
+
+#. translators: %s is the post title.
+#: build/site-content.js:17
+msgid "\"%s\" has been deleted."
+msgstr "\"%s\" đã bị xóa."
+
+#. translators: %s is the post title.
+#: build/site-content.js:17
+msgid "Undo"
+msgstr "Hoàn tác"
+
+#: build/site-content.js:17
+msgid "Trashing failed"
+msgstr "Không xóa được"
+
+#. translators: %s is the post title.
+#: build/site-content.js:18
+msgid "\"%s\" has been duplicated."
+msgstr "\"%s\" đã được nhân đôi."
+
+#. translators: %s is the post title.
+#: build/site-content.js:18
+msgid "Duplication failed"
+msgstr "Nhân đôi không thành công"
+
+#: build/site-content.js:18
+msgid "Drafts"
+msgstr "Bản nháp"
+
+#. translators: accessibility text for the footer landmark region.
+#: build/site-design.js:15 packages/site-design/src/color-palette-preview.js:86
+msgid "Colors"
+msgstr "Màu sắc"
+
+#: build/site-design.js:15 packages/site-design/src/color-palette-preview.js:98
+msgid "Color Palettes"
+msgstr "Bảng màu"
+
+#: build/site-design.js:15
+#: packages/site-design/src/color-palette-preview.js:103
+msgid "Custom"
+msgstr "Tùy chỉnh"
+
+#: build/site-design.js:15 packages/site-design/src/design-preview.js:58
+msgid "Design Styles"
+msgstr "Thiết kế Kiểu mẫu"
+
+#: build/site-design.js:15 packages/site-design/src/design-preview.js:62
+msgid ""
+"Easily explore curated design styles, then customize your colors and fonts "
+"to get the perfect fit."
+msgstr ""
+"Dễ dàng khám phá các phong cách thiết kế được giám tuyển, rồi tùy chỉnh màu "
+"sắc và phông chữ cho phù hợp với bạn nhất."
+
+#: build/site-design.js:15 packages/site-design/src/font-size-picker.js:38
+msgid "Small"
+msgstr "Nhỏ"
+
+#: build/site-design.js:15 packages/site-design/src/font-size-picker.js:43
+msgid "Normal"
+msgstr "Bình thường"
+
+#: build/site-design.js:15 packages/site-design/src/font-size-picker.js:48
+msgid "Large"
+msgstr "Lớn"
+
+#: build/site-design.js:15 packages/site-design/src/font-size-picker.js:93
+msgid "Base size"
+msgstr "Kích cỡ nền"
+
+#: build/site-design.js:15 packages/site-design/src/font-size-picker.js:98
+msgid "Font size"
+msgstr "Kích cỡ phông chữ"
+
+#: build/site-design.js:15 packages/site-design/src/font-size-picker.js:125
+msgid "Heading Scale"
+msgstr "Co giãn tiêu đề"
+
+#: build/site-design.js:15 packages/site-design/src/font-advanced.js:51
+msgid "Body font size"
+msgstr "Kích cỡ phông chữ phần thân"
+
+#: build/site-design.js:15 packages/site-design/src/font-advanced.js:52
+msgid "HEADING"
+msgstr "TIÊU ĐỀ"
+
+#: build/site-design.js:15 packages/site-design/src/font-advanced.js:54
+#: packages/site-design/src/font-advanced.js:96
+msgid "Font"
+msgstr "Phông chữ"
+
+#: build/site-design.js:15 packages/site-design/src/font-advanced.js:67
+#: packages/site-design/src/font-advanced.js:110
+msgid "Weight"
+msgstr "Trọng lượng"
+
+#: build/site-design.js:15 packages/site-design/src/font-advanced.js:80
+#: packages/site-design/src/font-advanced.js:123
+msgid "Size"
+msgstr "Kích cỡ"
+
+#: build/site-design.js:15 packages/site-design/src/font-advanced.js:93
+msgid "Heading font size"
+msgstr "Kích cỡ phông chữ tiêu đề"
+
+#: build/site-design.js:15 packages/site-design/src/font-advanced.js:94
+msgid "BODY"
+msgstr "PHẦN THÂN"
+
+#: build/site-design.js:15 packages/site-design/src/font-preview.js:82
+msgid "Hide advanced"
+msgstr "Ẩn nâng cao"
+
+#: build/site-design.js:15 packages/site-design/src/font-preview.js:82
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#: build/site-design.js:15 packages/site-design/src/font-preview.js:120
+msgid "The quick brown fox jumped over the lazy dog."
+msgstr "Chú sói nâu nhanh nhẹn nhảy qua chú chó lười biếng."
+
+#: build/site-design.js:15 packages/site-design/src/font-preview.js:128
+msgid "Hide font sizes"
+msgstr "Ẩn kích cỡ phông chữ"
+
+#: build/site-design.js:15 packages/site-design/src/font-preview.js:128
+msgid "Edit font sizes"
+msgstr "Chỉnh sửa kích cỡ phông chữ"
+
+#: build/site-design.js:15 packages/site-design/src/font-preview.js:43
+msgid "Fonts"
+msgstr "Phông chữ"
+
+#: build/site-design.js:15 packages/site-design/src/font-preview.js:48
+msgid "Font Pairings"
+msgstr "Kết hợp phông chữ"
+
+#: build/site-design.js:15 packages/site-design/src/index.js:152
+msgid "Site design"
+msgstr "Thiết kế trang"

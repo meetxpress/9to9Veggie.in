@@ -1,0 +1,438 @@
+# Copyright (C) 2019 WEN Solutions
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Notice Bar 2.0.8\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/notice-bar\n"
+"POT-Creation-Date: 2019-12-18 09:59:58+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Notice Bar"
+msgstr ""
+
+#: class-notice-bar-main.php:87 class-notice-bar-main.php:89
+#: class-notice-bar-main.php:96 inc/cores/activation.php:11
+#: inc/cores/activation.php:29 inc/cores/activation.php:31
+#: inc/cores/activation.php:38
+msgid ""
+"Notice bar for all your custom notifications for your site visitors. Tweak "
+"them as you like using flexible options."
+msgstr ""
+
+#: class-notice-bar-main.php:304
+msgid ""
+"Features before version 2.0.0 is no longer supported now. Also, font-size "
+"option will not be supported in the upcoming version."
+msgstr ""
+
+#: inc/backend/settings.php:11
+msgid "Notice Bar Settings"
+msgstr ""
+
+#: inc/backend/settings.php:15
+msgid "Settings saved."
+msgstr ""
+
+#: inc/backend/settings.php:15
+msgid "Default settings restored successfully."
+msgstr ""
+
+#: inc/backend/settings.php:18
+msgid "Dismiss this notice."
+msgstr ""
+
+#: inc/backend/settings.php:23 inc/backend/settings.php:32
+msgid "Basic Configurations"
+msgstr ""
+
+#: inc/backend/settings.php:24
+msgid "Notice Configurations"
+msgstr ""
+
+#: inc/backend/settings.php:25
+msgid "Display Configurations"
+msgstr ""
+
+#: inc/backend/settings.php:34
+msgid "Enable Notice"
+msgstr ""
+
+#: inc/backend/settings.php:42
+msgid "Check if you want to enable notice in frontend."
+msgstr ""
+
+#: inc/backend/settings.php:47
+msgid "Enable Debug Mode"
+msgstr ""
+
+#: inc/backend/settings.php:55
+msgid "Check if you want to enable debug mode in frontend."
+msgstr ""
+
+#: inc/backend/settings.php:56
+msgid ""
+"Enabling debug mode will use uncompressed css and js files in frontend "
+"which can be used to debug the css and js conflicts."
+msgstr ""
+
+#: inc/backend/settings.php:62
+msgid "Notice Bar Layout"
+msgstr ""
+
+#: inc/backend/settings.php:66
+msgid "Layout 1 (Single Column)"
+msgstr ""
+
+#: inc/backend/settings.php:76
+msgid "Notice configurations"
+msgstr ""
+
+#: inc/backend/settings.php:81
+msgid "Notice Type"
+msgstr ""
+
+#: inc/backend/settings.php:83
+msgid "Plain Text"
+msgstr ""
+
+#: inc/backend/settings.php:84
+msgid "Slider"
+msgstr ""
+
+#: inc/backend/settings.php:85
+msgid "News Ticker"
+msgstr ""
+
+#: inc/backend/settings.php:86 inc/backend/settings.php:239
+msgid "Social Icons"
+msgstr ""
+
+#: inc/backend/settings.php:91
+msgid "Notice Text"
+msgstr ""
+
+#: inc/backend/settings.php:95
+msgid "Allowed HTML Tags are : a, button, em, br, strong"
+msgstr ""
+
+#: inc/backend/settings.php:102
+msgid "Slides"
+msgstr ""
+
+#: inc/backend/settings.php:131
+msgid "Add New Slide"
+msgstr ""
+
+#: inc/backend/settings.php:135
+msgid "Auto Slide"
+msgstr ""
+
+#: inc/backend/settings.php:142
+msgid "Check if you want to auto start the slider"
+msgstr ""
+
+#: inc/backend/settings.php:147
+msgid "Show Controls"
+msgstr ""
+
+#: inc/backend/settings.php:154
+msgid "Check if you want to show slider controls"
+msgstr ""
+
+#: inc/backend/settings.php:159
+msgid "Slide Duration"
+msgstr ""
+
+#: inc/backend/settings.php:162
+msgid "Please enter the slide duration in milliseconds. Default duration is 1000"
+msgstr ""
+
+#: inc/backend/settings.php:168
+msgid "Ticker Label"
+msgstr ""
+
+#: inc/backend/settings.php:170
+msgid "Latest News"
+msgstr ""
+
+#: inc/backend/settings.php:171
+msgid ""
+"Please enter the ticker label. Leave blank if you don't want to display "
+"ticker label."
+msgstr ""
+
+#: inc/backend/settings.php:175
+msgid "Ticker Items"
+msgstr ""
+
+#: inc/backend/settings.php:201
+msgid "Add New Item"
+msgstr ""
+
+#: inc/backend/settings.php:202
+msgid ""
+"Please add the ticker text which will fit in the width of the notice bar. "
+"Else ticker text may be overlapped."
+msgstr ""
+
+#: inc/backend/settings.php:206
+msgid "Ticker Direction"
+msgstr ""
+
+#: inc/backend/settings.php:210
+msgid "Left to right"
+msgstr ""
+
+#: inc/backend/settings.php:211
+msgid "Right to left"
+msgstr ""
+
+#: inc/backend/settings.php:216
+msgid "Ticker Speed"
+msgstr ""
+
+#: inc/backend/settings.php:219
+msgid "Please enter the reveal speed of ticker. Default value is 0.10 "
+msgstr ""
+
+#: inc/backend/settings.php:223
+msgid "Ticker Pause Duration"
+msgstr ""
+
+#: inc/backend/settings.php:226
+msgid ""
+"Please enter the pause duration between each ticker item in milliseconds. "
+"Default value is 2000"
+msgstr ""
+
+#: inc/backend/settings.php:232
+msgid "Social Icons Label"
+msgstr ""
+
+#: inc/backend/settings.php:234
+msgid "Follow Us"
+msgstr ""
+
+#: inc/backend/settings.php:235
+msgid ""
+"This Label will show just before social icons. Please leave blank if you "
+"don't want to display the label"
+msgstr ""
+
+#: inc/backend/settings.php:255
+msgid "Enable"
+msgstr ""
+
+#: inc/backend/settings.php:259
+msgid "URL"
+msgstr ""
+
+#: inc/backend/settings.php:279
+msgid "Display configurations"
+msgstr ""
+
+#: inc/backend/settings.php:281
+msgid "Notice Bar Position"
+msgstr ""
+
+#: inc/backend/settings.php:284
+msgid "Top Absolute"
+msgstr ""
+
+#: inc/backend/settings.php:285
+msgid "Top Fixed"
+msgstr ""
+
+#: inc/backend/settings.php:286
+msgid "Bottom"
+msgstr ""
+
+#: inc/backend/settings.php:291
+msgid "Close Action"
+msgstr ""
+
+#: inc/backend/settings.php:295
+msgid "Disable"
+msgstr ""
+
+#: inc/backend/settings.php:296
+msgid "Close Button"
+msgstr ""
+
+#: inc/backend/settings.php:297
+msgid "Toggle Button"
+msgstr ""
+
+#: inc/backend/settings.php:302
+msgid "Background Color"
+msgstr ""
+
+#: inc/backend/settings.php:308
+msgid "Font Color"
+msgstr ""
+
+#: inc/backend/settings.php:315
+msgid "Social Icon Background"
+msgstr ""
+
+#: inc/backend/settings.php:321
+msgid "Social Icon Hover Background"
+msgstr ""
+
+#: inc/backend/settings.php:327
+msgid "Social Icon Color"
+msgstr ""
+
+#: inc/backend/settings.php:334
+msgid "Anchor Link Color"
+msgstr ""
+
+#: inc/backend/settings.php:337
+msgid ""
+"Please choose the color of the link. It will also work as color for News "
+"Ticker. Leave blank if you want to assign active theme's default color."
+msgstr ""
+
+#: inc/backend/settings.php:341
+msgid "Anchor Link Hover Color"
+msgstr ""
+
+#: inc/backend/settings.php:344
+msgid ""
+"Please choose the color of the link on hover. It will also work as hover "
+"color for News Ticker. Leave blank if you want to assign active theme's "
+"default color."
+msgstr ""
+
+#: inc/backend/settings.php:348
+msgid "Ticker Label Background"
+msgstr ""
+
+#: inc/backend/settings.php:351
+msgid ""
+"Please choose the background color of the ticker label. Leave blank if you "
+"want to assign the same background color of whole notice bar."
+msgstr ""
+
+#: inc/backend/settings.php:355
+msgid "Margin from Bottom or Top"
+msgstr ""
+
+#: inc/backend/settings.php:358
+msgid ""
+"Please enter the margin in px if you require to shift the notice bar from "
+"top or bottom. Default is 0px."
+msgstr ""
+
+#: inc/backend/settings.php:362
+msgid "Disable For Mobile"
+msgstr ""
+
+#: inc/backend/settings.php:367
+msgid "Check if you want to disable notice bar for mobile devices"
+msgstr ""
+
+#: inc/backend/settings.php:375
+msgid "Save Changes"
+msgstr ""
+
+#: inc/backend/settings.php:378
+msgid "Restore Default Settings"
+msgstr ""
+
+#: inc/backend/sidebar.php:2
+msgid "Pro Version"
+msgstr ""
+
+#: inc/backend/sidebar.php:4
+msgid "Some exciting pro features"
+msgstr ""
+
+#: inc/backend/sidebar.php:6
+msgid "Multiple Notice bars"
+msgstr ""
+
+#: inc/backend/sidebar.php:7
+msgid "Notice bar division in 3 sections"
+msgstr ""
+
+#: inc/backend/sidebar.php:8
+msgid "Scheduling option for Notice bars"
+msgstr ""
+
+#: inc/backend/sidebar.php:9
+msgid "Shortcodes support"
+msgstr ""
+
+#: inc/backend/sidebar.php:10
+msgid "Page display control for individual Notice bars"
+msgstr ""
+
+#: inc/backend/sidebar.php:11
+msgid "Total 8 types of Notice bars"
+msgstr ""
+
+#: inc/backend/sidebar.php:12
+msgid "More social icons with multiple configurations"
+msgstr ""
+
+#: inc/backend/sidebar.php:14
+msgid "View more detail"
+msgstr ""
+
+#: inc/backend/sidebar.php:18
+msgid "Help &amp; Support"
+msgstr ""
+
+#: inc/backend/sidebar.php:20
+msgid "Questions, bugs or great ideas?"
+msgstr ""
+
+#: inc/backend/sidebar.php:21
+msgid "Visit our plugin support page"
+msgstr ""
+
+#: inc/backend/sidebar.php:22
+msgid "Wanna help make this plugin better?"
+msgstr ""
+
+#: inc/backend/sidebar.php:24
+msgid "Review and rate this plugin on WordPress.org"
+msgstr ""
+
+#: inc/cores/activation.php:13
+msgid "Button"
+msgstr ""
+
+#: notice-bar.php:151
+msgid "Settings"
+msgstr ""
+
+#: notice-bar.php:171
+msgid ""
+"Notice Bar Pro is activated. Notice Bar (Free version) will be deactivated "
+"now."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wensolutions.com/plugins/notice-bar/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A simple plugin to show notice bar in WordPress sites."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WEN Solutions"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wensolutions.com"
+msgstr ""

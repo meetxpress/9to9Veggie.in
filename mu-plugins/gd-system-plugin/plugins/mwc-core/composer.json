@@ -1,0 +1,44 @@
+{
+    "name": "godaddy/mwc-core",
+    "description": "Simplified eCommerce for WordPress by GoDaddy.",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0",
+    "minimum-stability": "dev",
+	"autoload": {
+	  "psr-4": {
+		"GoDaddy\\WordPress\\MWC\\Core\\": "src/"
+	  }
+	},
+    "autoload-dev": {
+        "psr-4": {
+            "GoDaddy\\WordPress\\MWC\\Core\\Tests\\": "tests/"
+	    }
+	},
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:gdcorp-partners/mwc-common.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:gdcorp-partners/mwc-dashboard.git"
+        }
+    ],
+    "require": {
+        "php": "^7.0|^8.0",
+        "godaddy/mwc-common": "^1.5.1",
+        "godaddy/mwc-dashboard": "dev-main"
+    },
+    "require-dev": {
+		"dms/phpunit-arraysubset-asserts": "^0.2.1",
+        "godaddy-wordpress/json2po": "^1.0",
+        "godaddy-wordpress/pot2json": "^1.0",
+        "wp-cli/wp-cli-bundle": "^2.4",
+        "phpunit/phpunit": "^9.4",
+        "10up/wp_mock": "0.4.2"
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+    }
+}

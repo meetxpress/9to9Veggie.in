@@ -1,0 +1,6 @@
+repos:
+-   repo: git@github.com:gdcorp-partners/pre-commit-hooks.git
+    rev: 88d23f3f0eb6f9a5864faccfc75e1387b460ed13
+    hooks:
+    -   id: php-cs-fixer
+    -   id: tartufo

@@ -1,0 +1,12 @@
+#mwc-messages-container > div:not(:empty) {
+	margin: 40px 20px 0 2px;
+}
+.toplevel_page_mwc-get-help #mwc-messages-container > div:not(:empty) {
+	margin-bottom: 24px;
+}
+.woocommerce-page #mwc-messages-container > div:not(:empty) {
+	margin: 100px 40px -60px 40px;
+}
+.woocommerce-embed-page #mwc-messages-container > div:not(:empty) {
+	margin: 100px 20px -70px 20px;
+}

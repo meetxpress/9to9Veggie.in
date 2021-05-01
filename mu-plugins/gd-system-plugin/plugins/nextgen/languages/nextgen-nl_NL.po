@@ -1,0 +1,818 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/project\n"
+"POT-Creation-Date: 2021-03-11T15:56:29+00:00\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: json2po\n"
+
+#. Plugin Name of the plugin
+msgid "NextGen"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.godaddy.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Next Generation WordPress Experience"
+msgstr "Een baanbrekende ervaring op WordPress"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr ""
+
+#: includes/class-edit-site.php:48
+msgid "Setting to disable or enable NextGen administration dashboard shortcut."
+msgstr ""
+"Instelling om de snelkoppeling naar het beheerdashboard van NextGen in of "
+"uit te schakelen."
+
+#: includes/class-edit-site.php:94
+msgid "Headline"
+msgstr "Kop"
+
+#: includes/class-edit-site.php:95
+msgid "Text"
+msgstr "Tekst"
+
+#: includes/class-edit-site.php:96
+msgid "List"
+msgstr "Lijst"
+
+#: includes/class-edit-site.php:97
+msgid "Image"
+msgstr "Afbeelding"
+
+#: includes/class-edit-site.php:98
+msgid "Gallery"
+msgstr "Galerij"
+
+#: includes/class-edit-site.php:99
+msgid "Contact"
+msgstr ""
+
+#: includes/class-edit-site.php:100
+msgid "Call To Action"
+msgstr "Oproep tot actie"
+
+#: includes/class-image-categories.php:84
+msgid "Generic"
+msgstr "Algemeen"
+
+#: includes/class-image-categories.php:108
+msgid "Image category."
+msgstr "Afbeeldingscategorie."
+
+#: includes/class-publish-guide.php:131
+msgid "Display Publish Guide."
+msgstr "Geef de publicatiehandleiding weer."
+
+#: includes/class-site-design.php:380
+msgid "A design_style must be passed."
+msgstr "Er moet een design_style worden doorgegeven."
+
+#: includes/class-site-design.php:388
+msgid "An available design_style must be passed."
+msgstr "Er moet een beschikbare design_style worden doorgegeven."
+
+#. translators: accessibility text for the footer landmark region.
+#: build/edit-site.js:15
+#: packages/edit-site/src/components/header/more-menu/index.js:27
+msgid "More tools & options"
+msgstr ""
+
+#: build/edit-site.js:15
+#: packages/edit-site/src/components/header/more-menu/index.js:33
+msgctxt "noun"
+msgid "View"
+msgstr ""
+
+#: build/edit-site.js:15
+#: packages/edit-site/src/components/header/more-menu/index.js:36
+msgid "Top toolbar"
+msgstr ""
+
+#: build/edit-site.js:15
+#: packages/edit-site/src/components/header/more-menu/index.js:37
+msgid "Access all block and document tools in a single place"
+msgstr ""
+
+#: build/edit-site.js:15
+#: packages/edit-site/src/components/header/more-menu/index.js:41
+msgid "Spotlight mode"
+msgstr ""
+
+#: build/edit-site.js:15
+#: packages/edit-site/src/components/header/more-menu/index.js:42
+msgid "Focus on one block at a time"
+msgstr ""
+
+#: build/edit-site.js:15
+#: packages/edit-site/src/components/header/more-menu/index.js:46
+msgid "Plugins"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:56
+msgid "Would you like to keep using the GoDaddy Site Editor?"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:59
+msgid ""
+"We want to make sure you have the right tools to build your site. You are "
+"currently using the GoDaddy Site editor, which gives you all of WordPress "
+"plus a way to customize your design, edit your pages, and manage your pages, "
+"all from one place. "
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:60
+msgid "Would you like to keep building your site with the GoDaddy Site Editor?"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:66
+msgid "Yes, keep using GoDaddy Site Editor"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:71
+msgid "No, I’d like to see other options"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:77
+#: packages/editor-preference-modal/src/index.js:114
+msgid "Continue"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:85
+msgid "We’re sorry this wasn’t the right fit for you"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:88
+msgid "Could you tell us why?"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:91
+msgid "Tell us why this wasn’t the right fit for you…"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:100
+#: packages/editor-preference-modal/src/index.js:147
+#: packages/editor-preference-modal/src/index.js:178
+#: packages/editor-preference-modal/src/index.js:207
+#: packages/editor-preference-modal/src/index.js:240
+msgid "Go Back"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:107
+msgid "Skip"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:126
+msgid "Let’s find you a better fit"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:127
+msgid "Here are some other options to explore:"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:131
+msgid "Switch to the default WordPress editor"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:136
+msgid "Switch to a 3rd party page builder"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:141
+msgid "Talk to someone about my options"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:151
+msgid "Learn More"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:161
+msgid "Switching to the default WordPress editor"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:164
+msgid "You should switch to the default WordPress editor if:"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:166
+msgid "You want to use a different theme"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:167
+msgid "You are familiar with and/or prefer to use default WordPress"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:171
+#: packages/editor-preference-modal/src/index.js:200
+msgid ""
+"Once you switch, this site will no longer work with the GoDaddy Site Editor, "
+"so you won’t be able to come back."
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:173
+msgid "Ready to switch this site to the default WordPress editor?"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:182
+msgid "Switch to Default"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:194
+msgid "Switching to a 3rd Party Page Builder"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:197
+msgid ""
+"A 3rd party page builder is a WordPress plugin that you install on your "
+"site, that allows you to build and design pages."
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:202
+msgid "Ready to switch this site to a 3rd party page builder?"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:211
+msgid "View Plugins"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:226
+msgid "Expert help is on the way"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:235
+msgid "Contact our GoDaddy guides to get started."
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:244
+msgid "Contact Us"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:259
+msgid "Redirecting you to the default WordPress Editor…"
+msgstr ""
+
+#: build/editor-preference-modal.js:1
+#: packages/editor-preference-modal/src/index.js:269
+msgid "Redirecting you to WordPress plugins…"
+msgstr ""
+
+#. translators: accessibility text for the footer landmark region.
+#: build/feedback-modal.js:15
+#: packages/feedback-modal/src/feedback-modal-comment.js:25
+msgid "Tell us about your experience… (optional)"
+msgstr "Vertel ons over je ervaring… (optioneel)"
+
+#: build/feedback-modal.js:15
+#: packages/feedback-modal/src/feedback-modal-comment.js:32
+msgid "Send"
+msgstr "Verzenden"
+
+#: build/feedback-modal.js:15
+#: packages/feedback-modal/src/feedback-modal-success.js:15
+msgid "Thank you for sharing your feedback with us"
+msgstr "Bedankt dat je je feedback met ons hebt gedeeld"
+
+#: build/feedback-modal.js:15
+#: packages/feedback-modal/src/feedback-modal-success.js:21
+msgid "Close"
+msgstr "Sluiten"
+
+#. translators: %1$s is a placeholder for the site's url.
+#: build/feedback-modal.js:15 build/publish-guide.js:2
+#: packages/feedback-modal/src/index.js:92
+#: packages/feedback-modal/src/index.js:103
+#: packages/publish-guide/src/success-view.js:119
+msgid "Give feedback"
+msgstr "Feedback geven"
+
+#: build/feedback-modal.js:15 packages/feedback-modal/src/index.js:104
+msgid "How would you rate your experience?"
+msgstr "Hoe beoordeel je je ervaring"
+
+#: build/layout-selector.js:1
+#: packages/layout-selector/src/image-category-defaults.js:5
+msgid "Fashion"
+msgstr "Mode"
+
+#: build/layout-selector.js:1
+#: packages/layout-selector/src/image-category-defaults.js:9
+msgid "Home Decor"
+msgstr "Interieur"
+
+#: build/layout-selector.js:1
+#: packages/layout-selector/src/image-category-defaults.js:13
+msgid "Coffee"
+msgstr "Koffie"
+
+#: build/layout-selector.js:1
+#: packages/layout-selector/src/image-category-defaults.js:17
+msgid "Construction"
+msgstr "Bouw"
+
+#: build/layout-selector.js:1
+#: packages/layout-selector/src/image-category-defaults.js:21
+msgid "Art"
+msgstr "Kunst"
+
+#: build/layout-selector.js:1
+#: packages/layout-selector/src/image-category-defaults.js:25
+msgid "Baking"
+msgstr "Bakken"
+
+#: build/layout-selector.js:1
+#: packages/layout-selector/src/image-category-defaults.js:29
+msgid "Fitness"
+msgstr ""
+
+#: build/layout-selector.js:1
+#: packages/layout-selector/src/image-category-defaults.js:33
+msgid "Landscaping"
+msgstr "Tuinaanleg"
+
+#: build/layout-selector.js:1 packages/layout-selector/src/search.js:171
+msgid "Search"
+msgstr "Zoeken"
+
+#: build/layout-selector.js:1
+#: packages/layout-selector/src/image-categories.js:23
+msgid "My site is about:"
+msgstr "Mijn site is voor:"
+
+#. translators: accessibility text for the footer landmark region.
+#: build/logo-menu.js:15
+msgid "Cache cleared"
+msgstr "Cache gewist"
+
+#: build/logo-menu.js:15
+msgid "Site Editor"
+msgstr "Site-editor"
+
+#: build/logo-menu.js:15
+msgid "WordPress Management"
+msgstr "WordPress-beheer"
+
+#: build/logo-menu.js:15
+msgid "Manage Plugins"
+msgstr "Plug-ins beheren"
+
+#: build/logo-menu.js:15
+msgid "Manage Site Menus"
+msgstr "Sitemenu's beheren"
+
+#: build/logo-menu.js:15
+msgid "Customize Site Design"
+msgstr "Siteontwerp aanpassen"
+
+#: build/logo-menu.js:15
+msgid "Manage Users"
+msgstr "Gebruikers beheren"
+
+#: build/logo-menu.js:15
+msgid "Manage Comments"
+msgstr "Opmerkingen beheren"
+
+#: build/logo-menu.js:15
+msgid "WordPress Admin"
+msgstr "WordPress-beheerder"
+
+#: build/logo-menu.js:15
+msgid "Hosting"
+msgstr ""
+
+#: build/logo-menu.js:15
+msgid "Hosting Overview"
+msgstr "Overzicht van hosting"
+
+#: build/logo-menu.js:15
+msgid "Hosting Settings"
+msgstr "Hostinstellingen"
+
+#: build/logo-menu.js:15
+msgid "Tools"
+msgstr "Hulpprogramma‘s"
+
+#: build/logo-menu.js:15
+msgid "Editor Preference"
+msgstr ""
+
+#: build/logo-menu.js:15
+msgid "Flush Cache"
+msgstr "Cache legen"
+
+#: build/logo-menu.js:15
+msgid "Connection Management"
+msgstr "Verbindingsbeheer"
+
+#: build/logo-menu.js:15
+msgid "Support"
+msgstr ""
+
+#: build/logo-menu.js:15
+msgid "Give Feedback"
+msgstr "Feedback geven"
+
+#: build/logo-menu.js:15
+msgid "Help & Support"
+msgstr "Hulp en support"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-design.js:19
+msgid "Make the design your own"
+msgstr "Je eigen ontwerp maken"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-design.js:20
+msgid "Update the colors, fonts and change the look and feel of your site."
+msgstr "Werk kleuren en lettertypen bij en wijzig de vormgeving van je site."
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-design.js:30
+msgid "Customize"
+msgstr "Aanpassen"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-content.js:19
+msgid "Review and add pages"
+msgstr "Pagina‘s controleren en toevoegen"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-content.js:20
+msgid "We got you started with a few. Add more pages and content."
+msgstr ""
+"We hebben er al een paar voor je klaargezet. Voeg meer pagina‘s en content "
+"toe."
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-content.js:31
+msgid "Manage pages"
+msgstr "Pagina‘s beheren"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-info.js:129
+msgid "website logo"
+msgstr "websitelogo"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-info.js:134
+msgid "Add your site info & brand"
+msgstr "Je site-info en merk toevoegen"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-info.js:135
+msgid ""
+"What’s the name of your site and what’s it’s purpose? Add a logo if you have "
+"one."
+msgstr ""
+"Wat is de naam van je site en wat is het doel van je site? Voeg een logo toe "
+"als je dat hebt."
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-info.js:145
+msgid "Edit"
+msgstr "Bewerken"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-info.js:151
+msgid "Site title"
+msgstr "Sitetitel"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-info.js:157
+msgid "Site description"
+msgstr "Sitebeschrijving"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-info.js:167
+#: packages/publish-guide/src/publish-guide-items/site-info.js:181
+#: packages/publish-guide/src/publish-guide-items/site-info.js:185
+#: packages/publish-guide/src/publish-guide-items/site-info.js:198
+msgid "Upload site logo"
+msgstr "Sitelogo uploaden"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-info.js:203
+msgid "Replace Logo"
+msgstr ""
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-info.js:213
+msgid "Remove Logo"
+msgstr ""
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-info.js:235
+msgid "Save"
+msgstr "Opslaan"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/site-info.js:242
+msgid "Do this later"
+msgstr "Dit later doen"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/add-domain.js:26
+msgid "Add your domain"
+msgstr "Je domein toevoegen"
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/add-domain.js:27
+msgid ""
+"Look more professional and make it easier for customers to find your website."
+msgstr ""
+"Zorg voor een professionelere uitstralingen en maak het klanten "
+"gemakkelijker om je website te vinden."
+
+#: build/publish-guide.js:1
+#: packages/publish-guide/src/publish-guide-items/add-domain.js:46
+msgid "Add domain"
+msgstr "Domein toevoegen"
+
+#: build/publish-guide.js:1 packages/publish-guide/src/success-view.js:43
+msgid "Your site is live on"
+msgstr "Je site is gepubliceerd op"
+
+#: build/publish-guide.js:1 packages/publish-guide/src/success-view.js:56
+msgid "Time to celebrate and"
+msgstr "Tijd om dit te vieren en"
+
+#: build/publish-guide.js:1 packages/publish-guide/src/success-view.js:56
+msgid "share the great news."
+msgstr "het goede nieuws te delen."
+
+#: build/publish-guide.js:1 packages/publish-guide/src/success-view.js:69
+#: packages/publish-guide/src/success-view.js:83
+#: packages/publish-guide/src/success-view.js:98
+msgid "Check out my new website!"
+msgstr "Bekijk mijn nieuwe website!"
+
+#. translators: %1$s is a placeholder for the site's url.
+#: build/publish-guide.js:2 packages/publish-guide/src/success-view.js:101
+msgid ""
+"I just published my website at %1$s, come check it out and let me know what "
+"you think!"
+msgstr ""
+"Ik heb net mijn website gepubliceerd op %1$s. Kom deze bekijken en laat me "
+"weten van je ervan vindt!"
+
+#: build/publish-guide.js:2 packages/publish-guide/src/success-view.js:128
+msgid "Hide this guide"
+msgstr "Deze richtlijn verbergen"
+
+#: build/publish-guide.js:2
+msgid "Design Customizer"
+msgstr "Ontwerpcustomizer"
+
+#: build/publish-guide.js:2
+msgid "Click here to update your colors, fonts and feel of your site."
+msgstr ""
+"Klik hier om je kleuren, je lettertypen en het uiterlijk van je site bij te "
+"werken."
+
+#: build/publish-guide.js:2
+msgid "Site Contents"
+msgstr "Sitecontent"
+
+#: build/publish-guide.js:2
+msgid "Click here to add and manage the pages for your site."
+msgstr "Klik hier om de pagina's van je site toe te voegen en te beheren."
+
+#: build/publish-guide.js:2
+msgid "Getting Started Guide"
+msgstr "Snelstartgids"
+
+#: build/publish-guide.js:2
+msgid ""
+"Once you're done selecting your site style and colors, click here to "
+"continue publishing your site."
+msgstr ""
+"Zodra je de stijl en kleuren van je site hebt geselecteerd, klik je hier om "
+"je site te publiceren."
+
+#: build/publish-guide.js:2
+msgid "Publish Guide"
+msgstr "Handleiding Publiceren"
+
+#. translators: accessibility text for the footer landmark region.
+#: build/site-content.js:15 packages/site-content/src/post-menu-actions.js:38
+msgid "Select an action"
+msgstr "Selecteer een actie"
+
+#: build/site-content.js:15 packages/site-content/src/post-menu-actions.js:50
+msgid "Rename"
+msgstr "Naam wijzigen"
+
+#: build/site-content.js:15 packages/site-content/src/post-menu-actions.js:61
+msgid "Really set as homepage?"
+msgstr "Echt instellen als startpagina?"
+
+#: build/site-content.js:15 packages/site-content/src/post-menu-actions.js:71
+msgid "Set as homepage"
+msgstr "Instellen als startpagina"
+
+#: build/site-content.js:15 packages/site-content/src/post-menu-actions.js:80
+msgid "Unpin post"
+msgstr "Bericht losmaken"
+
+#: build/site-content.js:15 packages/site-content/src/post-menu-actions.js:80
+msgid "Pin post"
+msgstr "Bericht vastzetten"
+
+#: build/site-content.js:15 packages/site-content/src/post-menu-actions.js:89
+msgid "Duplicate"
+msgstr "Dupliceren"
+
+#: build/site-content.js:15 packages/site-content/src/post-menu-actions.js:99
+msgid "Really delete?"
+msgstr "Wil je dit echt verwijderen?"
+
+#: build/site-content.js:15 packages/site-content/src/post-menu-actions.js:109
+msgid "Delete"
+msgstr "Verwijderen"
+
+#. translators: %s is the page title.
+#: build/site-content.js:16
+msgid "\"%s\" set as the homepage."
+msgstr "%s ingesteld als de startpagina."
+
+#. translators: %s is the page title.
+#: build/site-content.js:16
+msgid "(no title)"
+msgstr "(naamloos)"
+
+#. translators: %s is the post title.
+#: build/site-content.js:17
+msgid "\"%s\" has been deleted."
+msgstr "%s is verwijderd."
+
+#. translators: %s is the post title.
+#: build/site-content.js:17
+msgid "Undo"
+msgstr "Ongedaan maken"
+
+#: build/site-content.js:17
+msgid "Trashing failed"
+msgstr "Niet aan de prullenbak toegevoegd"
+
+#. translators: %s is the post title.
+#: build/site-content.js:18
+msgid "\"%s\" has been duplicated."
+msgstr "%s is gekopieerd."
+
+#. translators: %s is the post title.
+#: build/site-content.js:18
+msgid "Duplication failed"
+msgstr "Kopiëren mislukt"
+
+#: build/site-content.js:18
+msgid "Drafts"
+msgstr "Concepten"
+
+#. translators: accessibility text for the footer landmark region.
+#: build/site-design.js:15 packages/site-design/src/color-palette-preview.js:86
+msgid "Colors"
+msgstr "Kleuren"
+
+#: build/site-design.js:15 packages/site-design/src/color-palette-preview.js:98
+msgid "Color Palettes"
+msgstr "Kleurenpaletten"
+
+#: build/site-design.js:15
+#: packages/site-design/src/color-palette-preview.js:103
+msgid "Custom"
+msgstr "Aangepast"
+
+#: build/site-design.js:15 packages/site-design/src/design-preview.js:58
+msgid "Design Styles"
+msgstr "Ontwerpstijlen"
+
+#: build/site-design.js:15 packages/site-design/src/design-preview.js:62
+msgid ""
+"Easily explore curated design styles, then customize your colors and fonts "
+"to get the perfect fit."
+msgstr ""
+"Verken eenvoudig unieke ontwerpstijlen en pas vervolgens je kleuren en "
+"lettertypen aan, zodat deze perfect passen."
+
+#: build/site-design.js:15 packages/site-design/src/font-size-picker.js:38
+msgid "Small"
+msgstr "Klein"
+
+#: build/site-design.js:15 packages/site-design/src/font-size-picker.js:43
+msgid "Normal"
+msgstr "Normaal"
+
+#: build/site-design.js:15 packages/site-design/src/font-size-picker.js:48
+msgid "Large"
+msgstr "Groot"
+
+#: build/site-design.js:15 packages/site-design/src/font-size-picker.js:93
+msgid "Base size"
+msgstr "Basisgrootte"
+
+#: build/site-design.js:15 packages/site-design/src/font-size-picker.js:98
+msgid "Font size"
+msgstr "Tekengrootte"
+
+#: build/site-design.js:15 packages/site-design/src/font-size-picker.js:125
+msgid "Heading Scale"
+msgstr "Schaal van kop"
+
+#: build/site-design.js:15 packages/site-design/src/font-advanced.js:51
+msgid "Body font size"
+msgstr "Lettergrootte tekst"
+
+#: build/site-design.js:15 packages/site-design/src/font-advanced.js:52
+msgid "HEADING"
+msgstr "KOP"
+
+#: build/site-design.js:15 packages/site-design/src/font-advanced.js:54
+#: packages/site-design/src/font-advanced.js:96
+msgid "Font"
+msgstr "Lettertype"
+
+#: build/site-design.js:15 packages/site-design/src/font-advanced.js:67
+#: packages/site-design/src/font-advanced.js:110
+msgid "Weight"
+msgstr "Gewicht"
+
+#: build/site-design.js:15 packages/site-design/src/font-advanced.js:80
+#: packages/site-design/src/font-advanced.js:123
+msgid "Size"
+msgstr "Grootte"
+
+#: build/site-design.js:15 packages/site-design/src/font-advanced.js:93
+msgid "Heading font size"
+msgstr "Lettergrootte kop"
+
+#: build/site-design.js:15 packages/site-design/src/font-advanced.js:94
+msgid "BODY"
+msgstr "TEKST"
+
+#: build/site-design.js:15 packages/site-design/src/font-preview.js:82
+msgid "Hide advanced"
+msgstr "Geavanceerd verbergen"
+
+#: build/site-design.js:15 packages/site-design/src/font-preview.js:82
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: build/site-design.js:15 packages/site-design/src/font-preview.js:120
+msgid "The quick brown fox jumped over the lazy dog."
+msgstr "De snelle bruine vos sprong over de luie hond."
+
+#: build/site-design.js:15 packages/site-design/src/font-preview.js:128
+msgid "Hide font sizes"
+msgstr "Tekengrootten verbergen"
+
+#: build/site-design.js:15 packages/site-design/src/font-preview.js:128
+msgid "Edit font sizes"
+msgstr "Tekengrootten bewerken"
+
+#: build/site-design.js:15 packages/site-design/src/font-preview.js:43
+msgid "Fonts"
+msgstr "Lettertypen"
+
+#: build/site-design.js:15 packages/site-design/src/font-preview.js:48
+msgid "Font Pairings"
+msgstr "Lettertype koppelen"
+
+#: build/site-design.js:15 packages/site-design/src/index.js:152
+msgid "Site design"
+msgstr "Siteontwerp"
